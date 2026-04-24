@@ -1,2 +1,2 @@
 # IBM-SPSS-Modeler
- Constructing Predictive Model Using IBM SPSS Modeler
+A predictive analytics project using IBM SPSS Modeler 18.6 to estimate median house prices from the Boston Housing Dataset. Compares a baseline Linear Regression model against an Auto Numeric ensemble, where the Neural Network emerged as the top performer with a correlation of 0.884. Key findings reveal that room count (RM), socio-economic status (LSTAT), and river proximity (CHAS) are the primary drivers of house value. 
